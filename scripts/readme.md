@@ -1,5 +1,9 @@
 ---
-title: scripts
+layout: page
+title: Scripts
+description: >
+  All the scripts
+hide_description: true
 sitemap: false
-hide_last_modified: true
+permalink: /scripts/
 ---
