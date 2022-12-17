@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: post
 title: Citrix StoreFront Load Balancer
 hide_description: true
 sitemap: false
+categories: [NetScaler, StoreFront]
 ---
+This script will configure a secure Citrix StoreFront Load Balancer
 
 ```
 # You will not need to do this part if you already have an AlwaysUp service present on your NetScaler

@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Blog
+title: Scripts
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: blog
+slug: scripts
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Below are the recent EUC Security blog articles written by our team of EUC experts around the globe. We hope you enjoy then and more importantly implement them !
+  Below are the EUC Security Scripts that will help you implement some of the security patches we have written about on this site.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
