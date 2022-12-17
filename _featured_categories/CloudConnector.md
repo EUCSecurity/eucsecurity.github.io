@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Blog
+title: CloudConnector
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: blog
+slug: CloudConnector
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Below are the recent EUC Security blog articles written by our team of EUC experts around the globe. We hope you enjoy then and more importantly implement them !
+  Below are the Blog Articles and Scripts that are filed under the heading CloudConnector
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

@@ -28,7 +28,7 @@ description:           >
   Bridging the gap between security, usability and performance.
 
 # A shorter description for the sidebar.
-tagline:               Making EUC Security Granular
+tagline:               Don't Be A Victim
 
 # A list of keywords for your blog
 keywords:              [citrix, vmware, euc, security, eucsecurity, microsoft, pentest, red team, hack, vdi, daas, netscaler]
@@ -36,7 +36,7 @@ keywords:              [citrix, vmware, euc, security, eucsecurity, microsoft, p
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/eucsecurity/logo.png
+logo:                  /assets/img/eucsecurity/logo_padlock.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -79,15 +79,15 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/eucsecurity/sidebar.jpg
+accent_image:          /assets/img/eucsecurity/sidebar_silver.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -396,21 +396,21 @@ jekyll_compose:
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/eucsecurity/sidebar.jpg
+        path: /assets/img/eucsecurity/sidebar_silver.jpg
     posts:
       layout: post
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/eucsecurity/sidebar.jpg
+        path: /assets/img/eucsecurity/sidebar_silver.jpg
     projects:
       layout: project
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/eucsecurity/sidebar.jpg
+        path: /assets/img/eucsecurity/sidebar_silver.jpg
       links:
         - title: Project Link
           url: https://example.com
